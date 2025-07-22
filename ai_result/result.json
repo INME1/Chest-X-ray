@@ -1,0 +1,7 @@
+// 모델 이름  저장경로 
+{
+    "model": "PneumoniaNet", 
+    "image_url": "/media/ai_results/1.2.3.4.5/pneumonia_result.png",
+    "probability": 0.94
+  }
+  
